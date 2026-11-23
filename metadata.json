@@ -1,0 +1,8 @@
+{
+  "name": "Vidyaarthi Setu",
+  "description": "Offline-first adaptive learning platform for rural Grade 6-8 students and teachers — Bridging the Learning Gap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
